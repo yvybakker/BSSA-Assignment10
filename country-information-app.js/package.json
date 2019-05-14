@@ -1,0 +1,16 @@
+{
+  "name": "country-information-app",
+  "version": "1.0.0",
+  "description": "country info app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "country",
+    "info",
+    "app"
+  ],
+  "author": "Yvy Bakker",
+  "license": "ISC"
+}
